@@ -1,0 +1,12 @@
+call plug#begin()
+	Plug 'vim-airline/vim-airline'
+	Plug 'preservim/nerdtree'
+	Plug 'vim-airline/vim-airline-themes'
+	Plug 'tpope/vim-commentary'
+	Plug 'neoclide/coc.nvim'
+	Plug 'rafi/awesome-vim-colorschemes'
+	Plug 'ryanoasis/vim-devicons'
+	Plug 'terryma/vim-multiple-cursors'
+	Plug 'jiangmiao/auto-pairs'
+	Plug 'troydm/zoomwintab.vim'
+call plug#end()

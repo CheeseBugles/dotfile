@@ -1,0 +1,8 @@
+{
+	"lightbulb.text": {
+		"default": "💡",
+		"quickfix": "💡"
+	},
+	"coc.preferences.formatOnSave": true,
+	"rust-analyzer.rustfmt.enableRangeFormatting": true
+}
